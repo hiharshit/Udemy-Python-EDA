@@ -1,5 +1,5 @@
-
 # Udemy Course Data Analysis (Python EDA)
+
 This repository contains the code and documentation for an Exploratory Data Analysis (EDA) of Udemy course data using Python.
 
 ## Dataset
@@ -28,7 +28,7 @@ The dataset used for this analysis can be found [here](https://www.kaggle.com/da
 You can clone this repository to your local machine and run the Jupyter Notebook to perform the EDA. Make sure you have the required Python libraries installed.
 
 ```bash
-git clone https://github.com/HloHarshit/Udemy-Python-EDA.git
+git clone https://github.com/hiharshit/Udemy-Python-EDA.git
 cd Udemy-Python-EDA
 jupyter notebook udemy.ipynb
 ```
